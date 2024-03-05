@@ -1,4 +1,4 @@
-Malaria Detection CNN Model
+#Malaria Detection CNN Model
 
 This project hosts a Convolutional Neural Network (CNN) model designed to classify images of blood cells, 
 determining whether they are infected with malaria. Built with a focus on accuracy and efficiency, 
