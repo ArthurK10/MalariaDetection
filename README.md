@@ -8,18 +8,18 @@ and treatment planning for affected individuals.
 ## Prerequisites
 Before running the model, ensure you have the following installed:
 
-Python 3.8 or newer
-pip (Python package installer)
-Virtualenv (optional, for creating a virtual environment)
-pandas
-scipy
-os
-scikit-learn
-scikit-learn
-matplotlib
-tensorflow
-seaborn
-numpy
+* Python 3.8 or newer
+* pip (Python package installer)
+* Virtualenv (optional, for creating a virtual environment)
+* pandas
+* scipy
+* os
+* scikit-learn
+* scikit-learn
+* matplotlib
+* tensorflow
+* seaborn
+* numpy
 
 
 ## To download the dataset visit:
@@ -29,9 +29,9 @@ https://drive.google.com/file/d/1N1gcN8_5dZVlIejoC00QZLSZFhGoSoQb/view
 ## Installation:
 To set up the project environment, follow these steps:
 
-git clone https://github.com/ArthurK10/MalariaDetection.git
-cd MalariaDetection
-pip install -r requirements.txt
+* git clone https://github.com/ArthurK10/MalariaDetection.git
+* cd MalariaDetection
+* pip install -r requirements.txt
 
 
 ## License
